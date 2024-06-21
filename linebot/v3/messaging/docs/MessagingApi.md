@@ -1,3 +1,4 @@
+$ pip install line-bot-sdk
 # linebot.v3.messaging.MessagingApi
 
 All URIs are relative to *https://api.line.me*
